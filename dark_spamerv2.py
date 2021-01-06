@@ -301,7 +301,7 @@ def wa2():
 if __name__=="__main__":
      try:
           clear()
-          os.system('xdg-open https://youtu.be/vkVRz7o8Bg4')
+          os.system('xdg-open https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A')
           baner()
           hh="+62"
           no=input("[+]nomor target: ")
